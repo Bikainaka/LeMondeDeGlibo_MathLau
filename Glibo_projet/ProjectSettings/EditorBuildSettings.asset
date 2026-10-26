@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Niveau1.unity
     guid: c0c118a19b7d62d41aafe64d72958b21
+  - enabled: 1
+    path: Assets/Scenes/SuccesNiv1.unity
+    guid: 450d56d93f663da40973e06d0c90ce9b
+  - enabled: 1
+    path: Assets/Scenes/EchecNiv1.unity
+    guid: a23ae6e0bae51754b8699845c511b8b5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

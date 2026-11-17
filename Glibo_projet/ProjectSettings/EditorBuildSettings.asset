@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EchecNiv1.unity
     guid: a23ae6e0bae51754b8699845c511b8b5
+  - enabled: 1
+    path: Assets/Scenes/credit.unity
+    guid: 0e19e1cfbba9a144ab06cb416dc3806a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

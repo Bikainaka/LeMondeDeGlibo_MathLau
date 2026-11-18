@@ -394,7 +394,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 43
+    y: 0
     width: 1920
     height: 36
   m_SerializedDataModeController:
@@ -767,7 +767,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 272
     height: 803
   m_SerializedDataModeController:
@@ -840,8 +840,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 273
-    y: 79
+    x: 274
+    y: 24
     width: 1189
     height: 803
   m_SerializedDataModeController:
@@ -1373,7 +1373,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10.047211
     speed: 2
-    m_Value: 10.520639
+    m_Value: 10.047211
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -4629,7 +4629,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 908
+    y: 853
     width: 1463
     height: 206
   m_SerializedDataModeController:
@@ -4681,13 +4681,10 @@ MonoBehaviour:
     m_LastClickedID:
       m_rawData: 568105584918850282
     m_ExpandedIDs:
-    - m_rawData: 568105589213755234
     - m_rawData: 0
-    - m_rawData: 568105584918850280
-    - m_rawData: 568105584918850282
-    - m_rawData: 568105584918850284
-    - m_rawData: 568105584918850422
-    - m_rawData: 568105587066273791
+    - m_rawData: 568105584918850302
+    - m_rawData: 568105584918850304
+    - m_rawData: 568105584918850306
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4721,9 +4718,9 @@ MonoBehaviour:
       m_rawData: 0
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 568105584918850280
-    - m_rawData: 568105584918850282
-    - m_rawData: 568105584918850284
+    - m_rawData: 568105584918850302
+    - m_rawData: 568105584918850304
+    - m_rawData: 568105584918850306
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -5040,8 +5037,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1464
-    y: 79
+    x: 1465
+    y: 24
     width: 455
     height: 1035
   m_SerializedDataModeController:
